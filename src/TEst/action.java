@@ -22,6 +22,7 @@ public class action {
 	
 	dr.findElement(By.xpath("//a[text()='Kurtas & Suits']")).click();
 	dr.close();
+	dr.quit();)
 		
 	}
 
